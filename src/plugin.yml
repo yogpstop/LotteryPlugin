@@ -1,0 +1,6 @@
+name: LotteryPlugin
+version: 1.0
+description: bukkit単体で抽選を行うプラグインです。
+authors:
+  - yogpstop
+main: org.yogpstop.lp.LotteryPlugin
